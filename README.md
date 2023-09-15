@@ -24,6 +24,7 @@ Microsoft Corporation, a leader in the global technology industry, has embarked 
 - **Box Office Mojo**: Provides data on movie performance, including domestic and foreign gross earnings.
 - **The Movie Database (TMDB)**: Offers information on movie attributes such as genre, language, and popularity.
 - **The Numbers**: Focuses on financial aspects, including production budgets and worldwide gross earnings.
+Together, these datasets offer a complete picture of the movie business, including measurements for movie performance, financial information and movie qualities. These datasets are directly addressed by the data analysis questions, which seek to glean valuable insights for Microsoft's filmmaking endeavor.These data links enabled us to create a substantial and well-organized dataset that forms the basis of our analysis. 
 
 ### Description of Data
 
@@ -33,27 +34,27 @@ The combined dataset includes information on movie titles, studios, genres, lang
 
 #### Studio Dominance
 
-![Studio Dominance 1](Number%20of%20Movies%20vs.%20Studio%20Name.png)
+![Studio Dominance 1](plot%20images/Number%20of%20Movies%20vs.%20Studio%20Name.png)
 
-![Studio Dominance 2](Studio%20Name%20vs.%20Success%20Metrics.png)
+![Studio Dominance 2](plot%20images/Studio%20Name%20vs.%20Success%20Metrics.png)
 
 These bar charts showcase the dominance of studios based on the number of movies produced. It provides insights into the competitive landscape.
 
 #### Language Success
 
-![Language Success 1](Number%20of%20Movies%20vs.%20Languages.png)
+![Language Success 1](plot%20images/Number%20of%20Movies%20vs.%20Languages.png)
 
-![Language Success 2](Top%20Multilingual%20Languages%20vs.%20Average%20Worldwide%20Gross%20Revenue.png)
+![Language Success 2](plot%20images/Top%20Multilingual%20Languages%20vs.%20Average%20Worldwide%20Gross%20Revenue.png)
 
 These charts analyze the success of different languages in terms of global box office earnings. It explores the top-performing languages and their average worldwide gross revenue.
 
-#### Budget Correlation
+#### Budget and Gross Correlation
 
-![Budget Correlation 1](Production%20Budget%20vs.%20Domestic%20Gross.png)
+![Budget Correlation 1](plot%20images/Production%20Budget%20vs.%20Domestic%20Gross.png)
 
-![Budget Correlation 2](Production%20Budget%20vs.%20Worldwide%20Gross.png)
+![Budget Correlation 2](plot%20images/Production%20Budget%20vs.%20Worldwide%20Gross.png)
 
-![Budget Correlation 3](Domestic%20Gross%20vs.%20Worldwide%20Gross.png)
+![Budget Correlation 3](plot%20images/Domestic%20Gross%20vs.%20Worldwide%20Gross.png)
 
 These scatter plots showcase the correlation between production budgets and earnings, both domestically and worldwide. They emphasize the financial impact of budget allocation.
 
@@ -61,12 +62,11 @@ These scatter plots showcase the correlation between production budgets and earn
 
 ### Summary of Conclusions
 
-1. **Language Choice**: English-language films consistently lead in global box office earnings. Microsoft should prioritize English-language productions to tap into a broad audience.
+1. **Language Choice**: English-language films consistently lead in global box office earnings. Microsoft should prioritize English-language productions to tap into a broad audience. Microsoft should consider producing a significant portion of its movie portfolio in English to tap into this broad audience.
 
-2. **Budget Allocation**: There is a strong positive correlation between production budgets and earnings. Strategic budget allocation is crucial for maximizing revenue.
 
-3. **Competition Awareness**: Understanding the competitive landscape is vital. Microsoft should study successful studios and explore collaboration opportunities to establish a strong presence in the industry.
+2. **Budget Allocation**: There is a strong positive correlation between production budgets and earnings. Strategic budget allocation is crucial for maximizing revenue. To maximize revenue, Microsoft should carefully manage and spend its budgets. The remarkably strong correlation between domestic and international box office revenue shows that films that do well domestically also frequently do well internationally. Microsoft may use its local success to broaden its appeal internationally.
 
----
 
-This document provides a structured overview of Microsoft's cinematic endeavor, including key business questions, data sources, data description, and grouped visualizations as per your request.
+3. **Competition Awareness**: Understanding the competitive landscape is vital. Microsoft should study successful studios and explore collaboration opportunities to establish a strong presence in the industry. Microsoft ought to be aware of the market share and effective strategies of other significant studios. To increase its influence and reach, chances for partnership with other studios or distribution channels can also be investigated.
+
