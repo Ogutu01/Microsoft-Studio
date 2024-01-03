@@ -1,4 +1,4 @@
-# Phase-1-Project
+# Microsoft Studio
 ## Microsoft's Cinematic Endeavor: A Data-Backed Approach
 
 ## Overview
